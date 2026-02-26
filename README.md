@@ -41,7 +41,7 @@ Deterministic wrappers around Pillow/PIL.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/berithjeshurun/pyseed_dtypes.git](https://github.com/berithjeshurun/pyseed_dtypes.git)
+git clone [https://github.com/berithjeshurun13/pyseed_dtypes.git](https://github.com/berithjeshurun13/pyseed_dtypes.git)
 cd pyseed_dtypes
 
 # Install strict dependencies
